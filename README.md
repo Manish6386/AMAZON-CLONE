@@ -3,7 +3,8 @@
  ### made by using only html ans css
  #Out put of project
  
-![Screenshot (4)](https://github.com/code-bymanish/Clone-Amazon/assets/167522780/8bab515d-5089-4439-8e75-b5b5408a1e8c)
+![Screenshot 2024-04-28 122244](https://github.com/code-bymanish/Clone-Amazon/assets/167522780/8746587e-e6cb-4212-8519-22a83a453abf)
+
 
 ![Screenshot 2024-04-28 122437](https://github.com/code-bymanish/Clone-Amazon/assets/167522780/0d69cbaa-0c05-4b4a-8020-8ffdf1b71e60)
 
