@@ -1,7 +1,4 @@
-﻿# Clone-Amazon
- ## This is only clone of amazon home page.
- ### made by using only html ans css
- #Out put of project
+# SCREENSHOT
  
 ![Screenshot 2024-04-28 122244](https://github.com/code-bymanish/Clone-Amazon/assets/167522780/8746587e-e6cb-4212-8519-22a83a453abf)
 
